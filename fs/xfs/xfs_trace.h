@@ -3359,6 +3359,6 @@ DEFINE_GETFSMAP_EVENT(xfs_getfsmap_mapping);
 #endif /* _TRACE_XFS_H */
 
 #undef TRACE_INCLUDE_PATH
-#define TRACE_INCLUDE_PATH .
+#define TRACE_INCLUDE_PATH ../../fs/xfs
 #define TRACE_INCLUDE_FILE xfs_trace
 #include <trace/define_trace.h>

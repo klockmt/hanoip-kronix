@@ -13,7 +13,7 @@
 #undef TRACE_SYSTEM
 #define TRACE_SYSTEM ipa_eth
 
-#define TRACE_INCLUDE_PATH .
+#define TRACE_INCLUDE_PATH ../../drivers/platform/msm/ipa/ipa_v3/ethernet
 #define TRACE_INCLUDE_FILE ipa_eth_trace
 
 #if !defined(_IPA_ETH_TRACE_H) || defined(TRACE_HEADER_MULTI_READ)

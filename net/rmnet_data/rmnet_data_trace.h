@@ -353,6 +353,6 @@ TRACE_EVENT
 
 /* This part must be outside protection */
 #undef TRACE_INCLUDE_PATH
-#define TRACE_INCLUDE_PATH .
+#define TRACE_INCLUDE_PATH ../../net/rmnet_data
 #include <trace/define_trace.h>
 
